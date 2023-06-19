@@ -69,9 +69,9 @@
                     break;
                 case StateType.Move:
                     break;
-                case StateType.Attack:
-                    break;
                 case StateType.Jump:
+                    break;
+                case StateType.Attack:
                     break;
                 default:
                     break;
